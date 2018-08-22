@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+}
+#CG{
+    color: red;
+    border-radius: 10%;
+}
+#Description{
+    color: black;
+    font-size: 20px;
+}
+#Title{
+    text-shadow: 10cm;
+    border-radius: 10%;
+}
